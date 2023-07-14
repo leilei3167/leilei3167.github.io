@@ -1,0 +1,4 @@
+baseURL = 'https://leilei3167.github.io/'
+languageCode = 'zh-cn'
+title = 'LL博客'
+theme = 'ananke'
